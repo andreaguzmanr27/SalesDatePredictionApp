@@ -1,0 +1,55 @@
+.order-header {
+  margin-top: 0;
+  text-align: left;
+}
+
+.order-details-header {
+  text-align: left;
+}
+
+.form-row {
+  display: flex;
+  gap: 16px;
+}
+
+input, select {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-bottom: 1px solid rgba(155, 155, 155, 0.3);
+  outline: none;
+  background: transparent;
+}
+
+select {
+  color: #635e5e;
+}
+
+.buttons {
+  text-align: right;
+  margin-top: 30px;
+}
+
+button {
+  padding: 10px;
+  background-color: transparent;
+  color: green;
+  border: none;
+  cursor: pointer;
+}
+
+  button:hover {
+    font-weight: bold;
+  }
+
+  button:disabled {
+    color: slategrey;
+    cursor: not-allowed;
+  }
+
+.separator {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+  margin: 20px 0;
+}

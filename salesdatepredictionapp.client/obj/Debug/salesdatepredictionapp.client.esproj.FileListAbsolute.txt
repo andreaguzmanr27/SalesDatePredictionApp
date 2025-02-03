@@ -1,0 +1,1 @@
+C:\Users\andre\source\repos\SalesDatePredictionApp\salesdatepredictionapp.client\obj\Debug\salesdatepredictionapp.client.esproj.CoreCompileInputs.cache

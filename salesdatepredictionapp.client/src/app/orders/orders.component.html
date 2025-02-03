@@ -1,0 +1,58 @@
+<p *ngIf="orders.length === 0">No orders found for this customer.</p>
+
+<table *ngIf="orders.length > 0">
+  <thead>
+    <tr>
+      <th (click)="sortBy('orderid')">
+        Order ID
+        <span *ngIf="sortColumn === 'orderid'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+      </th>
+      <th (click)="sortBy('requireddate')">
+        Required Date
+        <span *ngIf="sortColumn === 'requireddate'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+      </th>
+      <th (click)="sortBy('shippeddate')">
+        Shipped Date
+        <span *ngIf="sortColumn === 'shippeddate'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+      </th>
+      <th (click)="sortBy('shipname')">
+        Ship Name
+        <span *ngIf="sortColumn === 'shipname'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+      </th>
+      <th (click)="sortBy('shipaddress')">
+        Ship Address
+        <span *ngIf="sortColumn === 'shipaddress'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+      </th>
+      <th (click)="sortBy('shipcity')">
+        Ship City
+        <span *ngIf="sortColumn === 'shipcity'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let order of orders | paginate: { id: 'child-pagination', itemsPerPage: childPaginationConfig.itemsPerPage, currentPage: childPaginationConfig.currentPage }">
+      <td>{{ order.orderid }}</td>
+      <td>{{ order.requireddate | date: 'M/dd/yyyy' }}</td>
+      <td>{{ order.shippeddate | date: 'M/dd/yyyy' }}</td>
+      <td>{{ order.shipname }}</td>
+      <td>{{ order.shipaddress }}</td>
+      <td>{{ order.shipcity }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="pagination-controls">
+  <div class="rows-per-page">
+    <label for="rowsPerPage">Rows per page:</label>
+    <select id="rowsPerPage" (change)="updatePagination($event)">
+      <option [value]="10">10</option>
+      <option [value]="20">20</option>
+    </select>
+  </div>
+
+  <div class="pagination-summary">
+    <span>{{ getPaginationSummary(orders.length, childPaginationConfig.itemsPerPage, childPaginationConfig.currentPage) }}</span>
+  </div>
+
+  <pagination-controls id="child-pagination" (pageChange)="childPaginationConfig.currentPage = $event" previousLabel="" nextLabel="" class="hide-page-numbers"></pagination-controls>
+</div>

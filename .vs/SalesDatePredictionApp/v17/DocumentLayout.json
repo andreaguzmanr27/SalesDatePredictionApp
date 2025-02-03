@@ -1,0 +1,1191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\orders\\orders.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\orders\\orders.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\orders\\orders.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\orders\\orders.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\services\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\services\\orderpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\services\\orderpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\dtos\\updateorderpredictionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\dtos\\updateorderpredictionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\dtos\\addneworderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\dtos\\addneworderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\interfaces\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\interfaces\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\interfaces\\iorderpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\interfaces\\iorderpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\controllers\\orderpredictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\controllers\\orderpredictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\salesdatepredictionapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\salesdatepredictionapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\node_modules\\@angular\\core\\fesm2022\\core.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salesdatepredictionapp.client\\node_modules\\@angular\\core\\fesm2022\\core.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\ordervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\ordervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\ordertotalsbyyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\ordertotalsbyyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\custorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\custorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\models\\orderprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\models\\orderprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1CB13CFF-9159-4E83-82E8-7A62A71F1AC7}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\data\\storesamplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\data\\storesamplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|c:\\users\\andre\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.server\\migrations\\20250201173858_createorderpredictiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3D00FE-ED39-46C2-8213-35B87040200E}|SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.csproj|solutionrelative:salesdatepredictionapp.server\\migrations\\20250201173858_createorderpredictiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Program.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:05:12.585Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\appsettings.json",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T15:56:51.285Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SalesDatePredictionApp.Server.http",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.http",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.http",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.http",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\SalesDatePredictionApp.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-01T17:00:02.199Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:05:50.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderPredictionController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\OrderPredictionController.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Controllers\\OrderPredictionController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\OrderPredictionController.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Controllers\\OrderPredictionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:47:19.359Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T19:53:28.999Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-01T20:18:05.901Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "orders.component.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T00:44:02.129Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orders.component.html",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.html",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.html",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T21:49:48.665Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "orders.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.ts",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwD4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T21:37:43.189Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T19:53:41.553Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T20:26:25.839Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "order-predictions.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.ts",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-02T00:28:47.018Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "order-predictions.component.html",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.html",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-02T00:31:07.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "order-predictions.component.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.css",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T01:21:01.202Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "new-order.component.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-02T02:09:40.549Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "new-order.component.html",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.html",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.html",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBsAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-02T02:27:40.545Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "new-order.component.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T02:27:41.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:13:29.777Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:20:38.353Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShippersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\ShippersController.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Controllers\\ShippersController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Controllers\\ShippersController.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Controllers\\ShippersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:17:22.756Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "order-predictions.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.spec.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.spec.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.spec.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\order-predictions\\order-predictions.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-02T01:15:40.918Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\.gitignore",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\.gitignore",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\.gitignore",
+              "RelativeToolTip": "salesdatepredictionapp.client\\.gitignore",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-03T23:53:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\.editorconfig",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\.editorconfig",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\.editorconfig",
+              "RelativeToolTip": "salesdatepredictionapp.client\\.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-03T23:22:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T19:53:35.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-02T02:22:46.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T19:53:37.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\index.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\index.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T20:42:31.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\main.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T20:42:33.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\angular.json",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\angular.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\angular.json",
+              "RelativeToolTip": "salesdatepredictionapp.client\\angular.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T20:26:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\ShipperService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Services\\ShipperService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\ShipperService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Services\\ShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:42:22.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\styles.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\styles.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-03T16:25:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\ProductService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:36:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "new-order.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.spec.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.spec.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.spec.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\new-order\\new-order.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-02T02:09:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "orders.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.spec.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.spec.ts",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\orders\\orders.component.spec.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\orders\\orders.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T23:22:23.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\OrderService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:10:28.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderPredictionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\OrderPredictionService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Services\\OrderPredictionService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\OrderPredictionService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Services\\OrderPredictionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:39:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:58:11.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Customer.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:38.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Category.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateOrderPredictionsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\UpdateOrderPredictionsRequest.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\DTOs\\UpdateOrderPredictionsRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\UpdateOrderPredictionsRequest.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\DTOs\\UpdateOrderPredictionsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:24:29.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShipperDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\ShipperDTO.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\DTOs\\ShipperDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\ShipperDTO.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\DTOs\\ShipperDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:41:26.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:35:56.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:08:03.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:02:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddNewOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\AddNewOrderRequest.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\DTOs\\AddNewOrderRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\DTOs\\AddNewOrderRequest.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\DTOs\\AddNewOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:46:46.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IShipperService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Interfaces\\IShipperService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IShipperService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Interfaces\\IShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:40:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:33:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:07:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IOrderPredictionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IOrderPredictionService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Interfaces\\IOrderPredictionService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IOrderPredictionService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Interfaces\\IOrderPredictionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:38:20.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:57:41.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Order.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:43.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:46.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Product.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:48.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Employee.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:41.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\package.json",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\package.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\package.json",
+              "RelativeToolTip": "salesdatepredictionapp.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T23:32:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderValue.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderValue.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\OrderValue.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderValue.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\OrderValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "core.mjs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "RelativeToolTip": "salesdatepredictionapp.client\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "ViewState": "AgIAAFUQAAAAAAAAAAAswGcQAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-03T07:15:17.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Supplier.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Supplier.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:52.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Shipper.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\Shipper.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\Shipper.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:51.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OrderTotalsByYear.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderTotalsByYear.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\OrderTotalsByYear.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderTotalsByYear.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\OrderTotalsByYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CustOrder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\CustOrder.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\CustOrder.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\CustOrder.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\CustOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:43:40.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\README.md",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\README.md",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\README.md",
+              "RelativeToolTip": "salesdatepredictionapp.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-01T23:32:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\package-lock.json",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\package-lock.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\package-lock.json",
+              "RelativeToolTip": "salesdatepredictionapp.client\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T20:40:52.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\tsconfig.json",
+              "RelativeToolTip": "salesdatepredictionapp.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T20:26:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T15:40:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrderPrediction.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderPrediction.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Models\\OrderPrediction.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Models\\OrderPrediction.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Models\\OrderPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:37:35.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\aspnetcore-https.js",
+              "RelativeToolTip": "salesdatepredictionapp.client\\aspnetcore-https.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-01T20:26:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250201173858_CreateOrderPredictionTable.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Migrations\\20250201173858_CreateOrderPredictionTable.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Migrations\\20250201173858_CreateOrderPredictionTable.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Migrations\\20250201173858_CreateOrderPredictionTable.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Migrations\\20250201173858_CreateOrderPredictionTable.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:38:58.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "StoreSampleContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Data\\StoreSampleContext.cs",
+              "RelativeDocumentMoniker": "SalesDatePredictionApp.Server\\Data\\StoreSampleContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SalesDatePredictionApp\\SalesDatePredictionApp.Server\\Data\\StoreSampleContext.cs",
+              "RelativeToolTip": "SalesDatePredictionApp.Server\\Data\\StoreSampleContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:41:41.903Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

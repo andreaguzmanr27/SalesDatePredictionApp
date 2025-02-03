@@ -1,0 +1,90 @@
+<div class="app-header">
+  <h2 id="appTitle">Sales Date Prediction App</h2>
+</div>
+
+<div class="container">
+  <div class="header-container">
+    <h1 id="title">Customers</h1>
+
+    <div class="search-container">
+      <input type="text" [(ngModel)]="searchTerm" placeholder="Customer Name" />
+      <button (click)="getOrderPredictions()">🔍</button>
+    </div>
+  </div>
+
+  <p *ngIf="orderPredictions.length === 0">No order predictions found.</p>
+
+  <table *ngIf="orderPredictions">
+    <thead>
+      <tr>
+        <th (click)="sortBy('customerName')">
+          Customer name
+          <span *ngIf="sortColumn === 'customerName'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+        </th>
+        <th (click)="sortBy('lastOrderDate')">
+          Last order date
+          <span *ngIf="sortColumn === 'lastOrderDate'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+        </th>
+        <th (click)="sortBy('nextPredictedOrder')">
+          Next predicted order
+          <span *ngIf="sortColumn === 'nextPredictedOrder'">{{ sortDirection ? '⬆' : '⬇' }}</span>
+        </th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let orderPrediction of orderPredictions | paginate: { id: 'parent-pagination', itemsPerPage: parentPaginationConfig.itemsPerPage, currentPage: parentPaginationConfig.currentPage }">
+        <td>{{ orderPrediction.customerName }}</td>
+        <td>{{ orderPrediction.lastOrderDate | date: 'M/dd/yyyy' }}</td>
+        <td>{{ orderPrediction.nextPredictedOrder | date: 'M/dd/yyyy' }}</td>
+        <td>
+          <button class="button-red" (click)="openOrdersModal(orderPrediction.customerName)">VIEW ORDERS</button>
+        </td>
+        <td>
+          <button class="button-green" (click)="openNewOrderModal(orderPrediction.customerName)">NEW ORDER</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="pagination-controls">
+    <div class="rows-per-page">
+      <label for="rowsPerPage">Rows per page:</label>
+      <select id="rowsPerPage" [(ngModel)]="parentPaginationConfig.itemsPerPage" (change)="updatePagination()">
+        <option [value]="10">10</option>
+        <option [value]="20">20</option>
+      </select>
+    </div>
+
+    <div class="pagination-summary">
+      <span>{{ getPaginationSummary(orderPredictions.length, parentPaginationConfig.itemsPerPage, parentPaginationConfig.currentPage) }}</span>
+    </div>
+
+    <pagination-controls id="parent-pagination" previousLabel="" nextLabel="" class="hide-page-numbers" (pageChange)="parentPaginationConfig.currentPage = $event"></pagination-controls>
+  </div>
+</div>
+
+<div *ngIf="showOrdersModal" class="modal" (click)="closeOrdersModal()">
+  <div class="modal-container" (click)="$event.stopPropagation()">
+    <div class="orders-header">
+      <h2 id="ordersHeader">{{ selectedCustomerName }} - Orders</h2>
+    </div>
+    <div class="modal-content">
+      <app-orders [customerName]="selectedCustomerName"></app-orders>
+      <button class="button-red" (click)="closeOrdersModal()">CLOSE</button>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="showNewOrderModal" class="modal" (click)="closeNewOrderModal()">
+  <div class="modal-container" (click)="$event.stopPropagation()">
+    <div class="new-order-header">
+      <h2 id="newOrderHeader">{{ selectedCustomerName }} - New order</h2>
+    </div>
+    <div class="modal-content">
+      <app-new-order (closeModal)="closeNewOrderModal()" [customerName]="selectedCustomerName"></app-new-order>
+    </div>
+  </div>
+</div>
+
